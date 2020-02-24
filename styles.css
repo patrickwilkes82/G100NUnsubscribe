@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.unsubscribe {
+    display: block;
+    width: 600px;
+    margin: 100px auto;
+    background-color: white;
+  }
+
+  .logo {
+    margin: auto;
+  }
+  
+  .logo img {
+    display: block;
+    width: 250px;
+    margin: auto;
+    padding: 25px 0 5px 0;
+  }
+
+  form {
+    padding: 25px 0 25px 0;
+  }
+  
+  p {
+    text-align: center;
+    padding: 0 0 10px 0;
+    font-family: 'Nunito';
+  }
+
+  .inputEmail {
+    height: 30px;
+    width: 350px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 25px;
+    margin: auto;
+  }
+
+  input {
+    line-height: 30px;
+    width: 330px;
+    outline: none;
+    border: 0;
+    margin-left: 10px; 
+  }
+  
+
+button {
+    width: 125px;
+    border: 0;
+    background-color: #77777a;
+    color: white;
+    font-weight: bold;
+    display: block;
+    margin: 10px auto;
+    padding: 10px 0 10px 0; 
+    border-radius: 25px;
+    font-family: 'Nunito';
+  }
